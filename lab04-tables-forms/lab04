@@ -11,11 +11,11 @@
 <body>
     <h1>Tables</h1>
     <table>Our First Table</table>
-      <tr>
+      <tr><strong>
         <th>Column 1</th>
         <th>Column 2</th>
         <th>Column 3</th>
-      </tr>
+      </strong></tr>
       <tr>
         <td>Freshman</td>
         <td>Sophomore</td>
