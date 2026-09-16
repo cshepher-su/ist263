@@ -33,7 +33,9 @@
       <input type="text" id="lname" name="lname"><br>
 
       <label for="comments">Comments:</label><br>
-      <textarea id="comments" name="comments" rows="4" cols="50"></textarea><br>
+      <textarea <br> <br>
+
+        <p
         
 
     </form>
