@@ -1,0 +1,155 @@
+<!DOCTYPE html> 
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Skills</title>
+<style>
+    table, th, td {border: 1px solid black;}
+</style>
+</head>
+
+<table>
+  <caption>Skills</caption>
+  <tr> 
+    <th>Skill</th>
+    <th>Proficiency</th>
+    <th>Years of Experience</th>
+  </tr>
+  <tr> class="evenrow">
+    <td>HTML</td>
+    <td>Intermediate</td>
+    <td>0.5</td>
+  </tr>
+  <tr> 
+    <td>CSS</td>
+    <td>Intermediate</td>
+    <td>0.5</td>
+  </tr>
+  <tr> class="evenrow">
+    <td>JavaScript</td>
+    <td>Beginner</td>
+    <td>0.25</td>
+  </tr>
+  <tr>
+    <td>Excel</td>
+    <td>Intermediate</td>
+    <td>1</td>
+  </tr>
+  <tr> class="evenrow">
+    <td>Adobe Photoshop</td>
+    <td>Advanced</td>
+    <td>1</td>
+    <tr>
+        <td>Adobe Illustrator</td>
+        <td>Intermediate</td>
+        <td>1</td>      
+    <tr> class="evenrow">
+        <td>Adobe InDesign</td>
+        <td>Intermediate</td>
+        <td>1</td>
+    <tr>
+        <td>Adobe Premiere Pro</td>
+        <td>Intermediate</td>
+        <td>1</td>
+    </tr>
+
+    <tr>
+        <td>Muckrack</td>
+        <td>Intermediate</td>
+        <td>1</td>  
+    </tr>
+    <tr> class="evenrow">
+        <td>BrandWatch</td>
+        <td>Intermediate</td>
+        <td>1</td>
+    </tr>
+</table>
+</html>
+
+
+<!DOCTYPE html> 
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Contact</title>
+</head>
+
+<body>
+    <h1>Contact</h1>
+    
+<p>Caitlin Shepherd</p>
+<address>900 S Crouse Ave, Syracuse, NY 13244 </address>
+<a href="mailto:cshepher@syr.edu">Email Me</a>
+
+
+<a href="https://www.linkedin.com/in/caitlinshepherd25" target="_blank">
+  My LinkedIn Profile 
+  <img src="images/linkedin-logo2.png" alt="LinkedIn logo" width="40" height="40">
+</a>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.623673623243!2d-76.14062992404165!3d43.0493488912767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9f3a5e0952113%3A0xa671279445418b15!2s820-900%20S%20Crouse%20Ave%2C%20Syracuse%2C%20NY%2013210!5e0!3m2!1sen!2sus!4v1789262460617!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+    <h1>Forms</h1>
+    <form action="https://formspree.io/f/xkjgnnbp" method="post">
+      <label for="fname">First Name: </label>
+      <input type="text" id="fname" name="fname"><br>
+      <label for="lname">Last Name: </label>
+      <input type="text" id="lname" name="lname"><br>
+    </form>
+  
+  
+      <br><br>
+       
+      <form>
+        <p>What's your  favorite color?</p>   
+
+        <input type="checkbox" id="color1" name="red" value="Red">
+        <label for="color1"> Red</label><br>
+        <input type="checkbox" id="color2" name="green" value="Green">
+        <label for="color2"> Green</label><br>
+        <input type="checkbox" id="color3" name="blue" value="Blue">
+        <label for="color3"> Blue</label><br><br>
+
+          </form>
+
+        <label for="movies">Select a Movie</label>
+        <select id="movies" name="movies">
+
+        <option value="Inception">Inception</option>
+        <option value="The Matrix">The Matrix</option>
+    
+  
+      
+        </select><br><br>
+
+        <label for="comments">What did you think of the website?</label><br>
+      <textarea id="comments" name="comments"> 
+
+      </textarea><br><br>
+      <input type="submit" value="Submit This Form">
+  
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <metacharset="utf-8">
+    <title>Caitlin Shepherd - Bio </title>
+    </head>
+
+    <body>
+        Hi, I’m Caitlin Shepherd. I'm a Public Relations major at Syracuse University's S.I. Newhouse School of Public Communications, with a concentration in Fashion and Beauty Communications and a minor in Information Management & Technology. What draws me to PR is that it's a field built on patience and consistency, where you invest energy into building relationships that engage a brand's audience and stakeholders over time, shaping how the public understands and connects with that brand's values. 
+
+I've had the chance to put that mindset into practice through hands-on experiences throughout the past year. As a Public Relations & Marketing Intern at Cinq à Sept, based in New York City, I supported media tracking, trend research, and pitch development while managing sample logistics and stylist/influencer outreach. At Syracuse, I currently serve as Director of Social Media for Phi Sig, where I grew our Instagram and TikTok accounts significantly. I also lead as Director of Communications for the Fashion and Design Society where I manage communications for our shows and events. Along the way, I've built a versatile skill set spanning Adobe Creative Suite, Canva Pro, Qualtrics, Brandwatch, and social platforms like Instagram and TikTok. 
+
+Outside of school and work, I love listening to all kinds of music, exploring restaurants and clothing stores, discovering new towns and cities, and spending time at the beach with friends. 
+
+    </body>
+</html>
