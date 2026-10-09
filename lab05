@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/caitlinshepherd25" target="_blank">
   My LinkedIn Profile
-  <img src="../images/linkedin-logo 2.png" alt="LinkedIn logo" width="40" height="40"> 
+  <img src="../images/linkedin-logo2.png" alt="LinkedIn logo" width="40" height="40"> 
 </a>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.623673623243!2d-76.14062992404165!3d43.0493488912767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9f3a5e0952113%3A0xa671279445418b15!2s820-900%20S%20Crouse%20Ave%2C%20Syracuse%2C%20NY%2013210!5e0!3m2!1sen!2sus!4v1789262460617!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -63,4 +63,20 @@
   
 </body>
 
+</html>
+
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <metacharset="utf-8">
+    <title>Caitlin Shepherd - Bio </title
+    </head>
+    <body>
+        Hi, I’m Caitlin Shepherd. I'm a Public Relations major at Syracuse University's S.I. Newhouse School of Public Communications, with a concentration in Fashion and Beauty Communications and a minor in Information Management & Technology. What draws me to PR is that it's a field built on patience and consistency, where you invest energy into building relationships that engage a brand's audience and stakeholders over time, shaping how the public understands and connects with that brand's values. 
+
+I've had the chance to put that mindset into practice through hands-on experiences throughout the past year. As a Public Relations & Marketing Intern at Cinq à Sept, based in New York City, I supported media tracking, trend research, and pitch development while managing sample logistics and stylist/influencer outreach. At Syracuse, I currently serve as Director of Social Media for Phi Sig, where I grew our Instagram and TikTok accounts significantly. I also lead as Director of Communications for the Fashion and Design Society where I manage communications for our shows and events. Along the way, I've built a versatile skill set spanning Adobe Creative Suite, Canva Pro, Qualtrics, Brandwatch, and social platforms like Instagram and TikTok. 
+
+Outside of school and work, I love listening to all kinds of music, exploring restaurants and clothing stores, discovering new towns and cities, and spending time at the beach with friends. 
+
+    </body>
 </html>
