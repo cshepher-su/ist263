@@ -54,20 +54,19 @@ nav a:focus {
   outline-color: #FFFFFF;
 }
 
-/* Skip link: hidden until it receives keyboard focus */
-.skip-link {
+.skip {
   position: absolute;
-  left: -999px;
-  top: 0;
-  background-color: #333333;
-  color: #FFFFFF;
-  padding: 0.5rem 1rem;
-  z-index: 100;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
-.skip-link:focus {
-  left: 0.5rem;
-  top: 0.5rem;
-  outline-color: #FFFFFF;
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
 }
 
 /* Skills table */
